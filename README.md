@@ -1,5 +1,5 @@
 
-# Hi, I'm Carlos José Baquerizo Argudo! 👋
+# Hi, I'm Carlos José Baquerizo Argudo! 
 
 Mechatronics Engineering student specialized in industrial automation, embedded systems, and IoT applied to predictive maintenance. Passionate about designing robust hardware, implementing real-time data acquisition networks, and integrating AI-driven monitoring solutions for industrial machinery.
 
