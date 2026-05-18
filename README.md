@@ -9,10 +9,11 @@ Estudiante de Ingeniería Mecatrónica especializado en automatización industri
 
 ## 🧠 Technical Expertise / Áreas de Experiencia
 
-* **Hardware & Electronics:** PCB Design (EasyEDA), Circuit Simulation (Proteus), Component Selection, Noise Immunity (IPC-2152 standards), Multilayer Ground Planes.
+* **Hardware & Electronics:** PCB Design (EasyEDA), Component Selection, Noise Immunity (IPC-2152 standards), Multilayer Ground Planes.
 * **Electric Networks:** Low and Mid tension diagrams (AUTOCAD) for residential complexes 
 * **Embedded Systems & Firmware:** ESP32, Arduino ecosystem, Microcontrollers (C/C++), Sensor Data Acquisition, 16-bit ADC sampling.
 * **IoT & Automation:** MQTT Protocol, Node-RED dashboards, Industrial Instrumentation, MATLAB (Fuzzy Logic Control).
+* **CAD & CAM: ** Solidworks
 
 ---
 
