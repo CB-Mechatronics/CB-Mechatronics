@@ -13,7 +13,7 @@ Estudiante de Ingeniería Mecatrónica especializado en automatización industri
 * **Electric Networks:** Low and Mid tension diagrams (AUTOCAD) for residential complexes 
 * **Embedded Systems & Firmware:** ESP32, Arduino ecosystem, Microcontrollers (C/C++), Sensor Data Acquisition, 16-bit ADC sampling.
 * **IoT & Automation:** MQTT Protocol, Node-RED dashboards, Industrial Instrumentation, MATLAB (Fuzzy Logic Control).
-* **CAD & CAM: ** Solidworks
+* **CAD & CAM:** Solidworks (soon CSWA).
 
 ---
 
